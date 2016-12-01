@@ -15,39 +15,23 @@
   <graph edgedefault="directed" id="G">
     <data key="d0"/>
     <node id="n0">
-<<<<<<< HEAD
-=======
-      <data key="d5"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="75.0" width="163.0" x="333.0" y="24.0"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-<<<<<<< HEAD
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="97.38671875" x="32.806640625" y="28.1494140625">Go to the website<y:LabelModel>
-=======
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="122.74609375" x="20.126953125" y="28.1494140625">Start at the homepage<y:LabelModel>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
               <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
             </y:ModelParameter>
           </y:NodeLabel>
-<<<<<<< HEAD
           <y:Shape type="ellipse"/>
-=======
-          <y:Shape type="roundrectangle"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
         </y:ShapeNode>
       </data>
     </node>
     <node id="n1">
-<<<<<<< HEAD
-=======
-      <data key="d5"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="63.0" width="105.0" x="351.0" y="133.5"/>
@@ -65,10 +49,6 @@
       </data>
     </node>
     <node id="n2">
-<<<<<<< HEAD
-=======
-      <data key="d5"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="43.0" width="49.0" x="314.0" y="265.0"/>
@@ -86,10 +66,6 @@
       </data>
     </node>
     <node id="n3">
-<<<<<<< HEAD
-=======
-      <data key="d5"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="43.0" width="44.0" x="412.0" y="265.0"/>
@@ -107,10 +83,6 @@
       </data>
     </node>
     <node id="n4">
-<<<<<<< HEAD
-=======
-      <data key="d5"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="63.0" width="97.0" x="123.0" y="133.5"/>
@@ -128,10 +100,6 @@
       </data>
     </node>
     <node id="n5">
-<<<<<<< HEAD
-=======
-      <data key="d5"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="68.5" width="105.0" x="569.0" y="133.5"/>
@@ -149,10 +117,6 @@
       </data>
     </node>
     <node id="n6">
-<<<<<<< HEAD
-=======
-      <data key="d5"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="37.0" width="194.0" x="-46.0" y="237.5"/>
@@ -171,18 +135,10 @@
       </data>
     </node>
     <node id="n7">
-<<<<<<< HEAD
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="43.0" width="113.0" x="-5.5" y="300.55102040816325"/>
           <y:Fill color="#FF0000" transparent="false"/>
-=======
-      <data key="d5"/>
-      <data key="d6">
-        <y:ShapeNode>
-          <y:Geometry height="43.0" width="113.0" x="-5.5" y="300.55102040816325"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="105.396484375" x="3.8017578125" y="12.1494140625">At your home page<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -196,7 +152,6 @@
       </data>
     </node>
     <node id="n8">
-<<<<<<< HEAD
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="37.0" width="137.8040593138728" x="-243.92650829346462" y="437.05102040816325"/>
@@ -204,15 +159,6 @@
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="127.416015625" x="5.194021844436406" y="1.798828125">Go to the lessons page
 for your grade<y:LabelModel>
-=======
-      <data key="d5"/>
-      <data key="d6">
-        <y:ShapeNode>
-          <y:Geometry height="30.0" width="131.0" x="-237.1224489795918" y="440.55102040816325"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="127.416015625" x="1.7919921875" y="5.6494140625">Go to the lessons page<y:LabelModel>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -224,22 +170,12 @@ for your grade<y:LabelModel>
       </data>
     </node>
     <node id="n9">
-<<<<<<< HEAD
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="25.0" width="126.0" x="-18.5" y="493.64827243024416"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="96.712890625" x="14.6435546875" y="3.149414062499943">Resume a lesson<y:LabelModel>
-=======
-      <data key="d5"/>
-      <data key="d6">
-        <y:ShapeNode>
-          <y:Geometry height="25.0" width="126.0" x="-125.23526463283594" y="482.55102040816325"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="96.712890625" x="14.6435546875" y="3.1494140625">Resume a lesson<y:LabelModel>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -251,16 +187,9 @@ for your grade<y:LabelModel>
       </data>
     </node>
     <node id="n10">
-<<<<<<< HEAD
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="37.0" width="163.0" x="155.97193459330344" y="449.1643493609353"/>
-=======
-      <data key="d5"/>
-      <data key="d6">
-        <y:ShapeNode>
-          <y:Geometry height="37.0" width="163.0" x="74.87755102040819" y="470.55102040816325"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="150.056640625" x="6.4716796875" y="9.1494140625">Go to your progress tracker<y:LabelModel>
@@ -275,16 +204,9 @@ for your grade<y:LabelModel>
       </data>
     </node>
     <node id="n11">
-<<<<<<< HEAD
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="25.0" width="65.0" x="391.0" y="419.37296393792604"/>
-=======
-      <data key="d5"/>
-      <data key="d6">
-        <y:ShapeNode>
-          <y:Geometry height="25.0" width="65.0" x="133.8775510204082" y="394.55102040816325"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="44.037109375" x="10.4814453125" y="3.1494140625">Log out<y:LabelModel>
@@ -294,19 +216,11 @@ for your grade<y:LabelModel>
               <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
             </y:ModelParameter>
           </y:NodeLabel>
-<<<<<<< HEAD
           <y:Shape type="ellipse"/>
-=======
-          <y:Shape type="roundrectangle"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
         </y:ShapeNode>
       </data>
     </node>
     <node id="n12">
-<<<<<<< HEAD
-=======
-      <data key="d5"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="52.0" width="210.0" x="531.0" y="232.0"/>
@@ -325,10 +239,6 @@ Enter your name, email and password.<y:LabelModel>
       </data>
     </node>
     <node id="n13">
-<<<<<<< HEAD
-=======
-      <data key="d5"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="37.0" width="126.0" x="573.0" y="340.0"/>
@@ -346,10 +256,6 @@ Enter your name, email and password.<y:LabelModel>
       </data>
     </node>
     <node id="n14">
-<<<<<<< HEAD
-=======
-      <data key="d5"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="97.04281810807765" x="-380.64352715073073" y="440.55102040816325"/>
@@ -367,10 +273,6 @@ Enter your name, email and password.<y:LabelModel>
       </data>
     </node>
     <node id="n15">
-<<<<<<< HEAD
-=======
-      <data key="d5"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="126.0" x="-580.1655256999682" y="440.55102040816325"/>
@@ -388,16 +290,9 @@ Enter your name, email and password.<y:LabelModel>
       </data>
     </node>
     <node id="n16">
-<<<<<<< HEAD
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="54.648094892675545" x="-814.9300602540893" y="440.55102040816325"/>
-=======
-      <data key="d5"/>
-      <data key="d6">
-        <y:ShapeNode>
-          <y:Geometry height="30.0" width="54.648094892675545" x="-770.9284399881377" y="440.55102040816325"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="48.021484375" x="3.3133052588377723" y="5.6494140625">Do quiz.<y:LabelModel>
@@ -412,18 +307,10 @@ Enter your name, email and password.<y:LabelModel>
       </data>
     </node>
     <node id="n17">
-<<<<<<< HEAD
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="37.0" width="131.0" x="-738.7412307650347" y="327.5161661098693"/>
           <y:Fill color="#FF99CC" transparent="false"/>
-=======
-      <data key="d5"/>
-      <data key="d6">
-        <y:ShapeNode>
-          <y:Geometry height="37.0" width="131.0" x="-659.9548239111277" y="339.2054091377577"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="128.74609375" x="1.126953125" y="9.1494140625">Go back to home page.<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -437,10 +324,6 @@ Enter your name, email and password.<y:LabelModel>
       </data>
     </node>
     <node id="n18">
-<<<<<<< HEAD
-=======
-      <data key="d5"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="126.0" x="-926.9284399881377" y="370.40907937483627"/>
@@ -459,20 +342,12 @@ Enter your name, email and password.<y:LabelModel>
       </data>
     </node>
     <node id="n19">
-<<<<<<< HEAD
-=======
-      <data key="d5"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="27.5" width="147.98221421960704" x="-992.9122744736964" y="488.4665631824054"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-<<<<<<< HEAD
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="143.388671875" x="2.2967711723034654" y="4.3994140625">Get some answers wrong.<y:LabelModel>
-=======
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="143.388671875" x="2.296771172303579" y="4.3994140625">Get some answers wrong.<y:LabelModel>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -484,22 +359,12 @@ Enter your name, email and password.<y:LabelModel>
       </data>
     </node>
     <node id="n20">
-<<<<<<< HEAD
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="39.85805896667301" width="131.0" x="-985.6842559486598" y="300.55102040816325"/>
           <y:Fill color="#FF99CC" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="128.74609375" x="1.126953125" y="10.578443545836535">Go back to home page.<y:LabelModel>
-=======
-      <data key="d5"/>
-      <data key="d6">
-        <y:ShapeNode>
-          <y:Geometry height="37.0" width="112.81759883938992" x="-967.5018547880497" y="303.40907937483627"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="109.404296875" x="1.7066509821949012" y="9.1494140625">Goes to homepage.<y:LabelModel>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -511,22 +376,12 @@ Enter your name, email and password.<y:LabelModel>
       </data>
     </node>
     <node id="n21">
-<<<<<<< HEAD
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="55.43691287181264" width="187.4666034921736" x="-828.6622547787716" y="678.9635050392562"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="180.115234375" x="3.675684558586795" y="18.36787049840632">You can try again, and redo quiz.<y:LabelModel>
-=======
-      <data key="d5"/>
-      <data key="d6">
-        <y:ShapeNode>
-          <y:Geometry height="55.43691287181264" width="187.4666034921736" x="-828.6622547787716" y="545.9665631824055"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="180.115234375" x="3.6756845585869087" y="18.36787049840632">You can try again, and redo quiz.<y:LabelModel>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -538,18 +393,10 @@ Enter your name, email and password.<y:LabelModel>
       </data>
     </node>
     <node id="n22">
-<<<<<<< HEAD
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="42.71845643590632" width="137.8040593138728" x="-1194.6385615169954" y="699.106499116697"/>
           <y:Fill color="#FF99CC" transparent="false"/>
-=======
-      <data key="d5"/>
-      <data key="d6">
-        <y:ShapeNode>
-          <y:Geometry height="42.71845643590632" width="137.8040593138728" x="-1175.0887824615538" y="545.9665631824055"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="122.078125" x="7.862967156936293" y="12.00864228045316">Go back to homepage<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
@@ -563,22 +410,12 @@ Enter your name, email and password.<y:LabelModel>
       </data>
     </node>
     <node id="n23">
-<<<<<<< HEAD
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="43.0" width="306.17219689396615" x="100.69630073758094" y="589.2459278758521"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="300.162109375" x="3.0050437594830726" y="12.1494140625">Shows lessons that you are in the middle of completing.<y:LabelModel>
-=======
-      <data key="d5"/>
-      <data key="d6">
-        <y:ShapeNode>
-          <y:Geometry height="68.5" width="306.17219689396615" x="-40.784753882542304" y="574.0489960516915"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="300.162109375" x="3.0050437594830726" y="24.8994140625">Shows lessons that you are in the middle of completing.<y:LabelModel>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -590,7 +427,6 @@ Enter your name, email and password.<y:LabelModel>
       </data>
     </node>
     <node id="n24">
-<<<<<<< HEAD
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="39.85805896667307" width="137.8040593138728" x="375.9987415740522" y="522.2459278758521"/>
@@ -745,7 +581,6 @@ do the quiz?<y:LabelModel>
       </data>
     </node>
     <node id="n33">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="37.0" width="137.8040593138728" x="-93.61481628598472" y="573.6482724302441"/>
@@ -763,41 +598,23 @@ do the quiz?<y:LabelModel>
       </data>
     </node>
     <node id="n34">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="43.0" width="293.3326693227091" x="-489.5059760956175" y="133.5"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="284.1484375" x="4.59211591135454" y="12.1494140625">NOTE: The pink boxes mean go back to the red box.<y:LabelModel>
-=======
-      <data key="d5"/>
-      <data key="d6">
-        <y:ShapeNode>
-          <y:Geometry height="37.0" width="126.0" x="306.7689391946478" y="552.2459278758521"/>
-          <y:Fill color="#FFCC00" transparent="false"/>
-          <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="104.06640625" x="10.966796875" y="9.1494140625">Back to homepage<y:LabelModel>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
               <y:SmartNodeLabelModelParameter labelRatioX="0.0" labelRatioY="0.0" nodeRatioX="0.0" nodeRatioY="0.0" offsetX="0.0" offsetY="0.0" upX="0.0" upY="-1.0"/>
             </y:ModelParameter>
           </y:NodeLabel>
-<<<<<<< HEAD
           <y:Shape type="rectangle3d"/>
-=======
-          <y:Shape type="rectangle"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
         </y:ShapeNode>
       </data>
     </node>
     <edge id="e0" source="n1" target="n2">
-<<<<<<< HEAD
-=======
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -810,10 +627,6 @@ do the quiz?<y:LabelModel>
       </data>
     </edge>
     <edge id="e1" source="n1" target="n3">
-<<<<<<< HEAD
-=======
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -826,10 +639,6 @@ do the quiz?<y:LabelModel>
       </data>
     </edge>
     <edge id="e2" source="n0" target="n1">
-<<<<<<< HEAD
-=======
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -840,10 +649,6 @@ do the quiz?<y:LabelModel>
       </data>
     </edge>
     <edge id="e3" source="n2" target="n4">
-<<<<<<< HEAD
-=======
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -854,10 +659,6 @@ do the quiz?<y:LabelModel>
       </data>
     </edge>
     <edge id="e4" source="n3" target="n5">
-<<<<<<< HEAD
-=======
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -868,10 +669,6 @@ do the quiz?<y:LabelModel>
       </data>
     </edge>
     <edge id="e5" source="n0" target="n5">
-<<<<<<< HEAD
-=======
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -882,10 +679,6 @@ do the quiz?<y:LabelModel>
       </data>
     </edge>
     <edge id="e6" source="n0" target="n4">
-<<<<<<< HEAD
-=======
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -896,10 +689,6 @@ do the quiz?<y:LabelModel>
       </data>
     </edge>
     <edge id="e7" source="n6" target="n7">
-<<<<<<< HEAD
-=======
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -910,10 +699,6 @@ do the quiz?<y:LabelModel>
       </data>
     </edge>
     <edge id="e8" source="n7" target="n8">
-<<<<<<< HEAD
-=======
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -924,10 +709,6 @@ do the quiz?<y:LabelModel>
       </data>
     </edge>
     <edge id="e9" source="n7" target="n9">
-<<<<<<< HEAD
-=======
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -938,10 +719,6 @@ do the quiz?<y:LabelModel>
       </data>
     </edge>
     <edge id="e10" source="n7" target="n10">
-<<<<<<< HEAD
-=======
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -952,10 +729,6 @@ do the quiz?<y:LabelModel>
       </data>
     </edge>
     <edge id="e11" source="n7" target="n11">
-<<<<<<< HEAD
-=======
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -966,10 +739,6 @@ do the quiz?<y:LabelModel>
       </data>
     </edge>
     <edge id="e12" source="n4" target="n6">
-<<<<<<< HEAD
-=======
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -980,10 +749,6 @@ do the quiz?<y:LabelModel>
       </data>
     </edge>
     <edge id="e13" source="n5" target="n12">
-<<<<<<< HEAD
-=======
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -994,10 +759,6 @@ do the quiz?<y:LabelModel>
       </data>
     </edge>
     <edge id="e14" source="n12" target="n13">
-<<<<<<< HEAD
-=======
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
@@ -1010,10 +771,6 @@ do the quiz?<y:LabelModel>
       </data>
     </edge>
     <edge id="e15" source="n13" target="n7">
-<<<<<<< HEAD
-=======
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1024,10 +781,6 @@ do the quiz?<y:LabelModel>
       </data>
     </edge>
     <edge id="e16" source="n8" target="n14">
-<<<<<<< HEAD
-=======
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1038,10 +791,6 @@ do the quiz?<y:LabelModel>
       </data>
     </edge>
     <edge id="e17" source="n14" target="n15">
-<<<<<<< HEAD
-=======
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1051,7 +800,6 @@ do the quiz?<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-<<<<<<< HEAD
     <edge id="e18" source="n16" target="n18">
       <data key="d10">
         <y:PolyLineEdge>
@@ -1063,10 +811,6 @@ do the quiz?<y:LabelModel>
       </data>
     </edge>
     <edge id="e19" source="n16" target="n19">
-=======
-    <edge id="e18" source="n15" target="n17">
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1076,12 +820,7 @@ do the quiz?<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-<<<<<<< HEAD
     <edge id="e20" source="n18" target="n20">
-=======
-    <edge id="e19" source="n15" target="n16">
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1091,7 +830,6 @@ do the quiz?<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-<<<<<<< HEAD
     <edge id="e21" source="n21" target="n16">
       <data key="d10">
         <y:PolyLineEdge>
@@ -1103,10 +841,6 @@ do the quiz?<y:LabelModel>
       </data>
     </edge>
     <edge id="e22" source="n9" target="n10">
-=======
-    <edge id="e20" source="n16" target="n18">
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1116,12 +850,7 @@ do the quiz?<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-<<<<<<< HEAD
     <edge id="e23" source="n10" target="n23">
-=======
-    <edge id="e21" source="n16" target="n19">
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1131,12 +860,7 @@ do the quiz?<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-<<<<<<< HEAD
     <edge id="e24" source="n10" target="n24">
-=======
-    <edge id="e22" source="n18" target="n20">
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1146,30 +870,17 @@ do the quiz?<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-<<<<<<< HEAD
     <edge id="e25" source="n23" target="n25">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
-=======
-    <edge id="e23" source="n21" target="n16">
-      <data key="d9"/>
-      <data key="d10">
-        <y:PolyLineEdge>
-          <y:Path sx="-8.675439509115108" sy="-17.71399478362332" tx="0.0" ty="0.0"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="false"/>
         </y:PolyLineEdge>
       </data>
     </edge>
-<<<<<<< HEAD
     <edge id="e26" source="n25" target="n15">
-=======
-    <edge id="e24" source="n19" target="n21">
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1179,12 +890,7 @@ do the quiz?<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-<<<<<<< HEAD
     <edge id="e27" source="n19" target="n26">
-=======
-    <edge id="e25" source="n19" target="n22">
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1194,12 +900,7 @@ do the quiz?<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-<<<<<<< HEAD
     <edge id="e28" source="n26" target="n22">
-=======
-    <edge id="e26" source="n9" target="n10">
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1209,7 +910,6 @@ do the quiz?<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-<<<<<<< HEAD
     <edge id="e29" source="n26" target="n21">
       <data key="d10">
         <y:PolyLineEdge>
@@ -1223,10 +923,6 @@ do the quiz?<y:LabelModel>
       </data>
     </edge>
     <edge id="e30" source="n15" target="n29">
-=======
-    <edge id="e27" source="n10" target="n23">
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -1236,7 +932,6 @@ do the quiz?<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-<<<<<<< HEAD
     <edge id="e31" source="n29" target="n16">
       <data key="d10">
         <y:PolyLineEdge>
@@ -1252,14 +947,6 @@ do the quiz?<y:LabelModel>
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
             <y:Point x="-673.2412307650347" y="376.4594504714422"/>
-=======
-    <edge id="e28" source="n23" target="n15">
-      <data key="d9"/>
-      <data key="d10">
-        <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0">
-            <y:Point x="-485.95397736240847" y="471.5546842152234"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
           </y:Path>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1267,7 +954,6 @@ do the quiz?<y:LabelModel>
         </y:PolyLineEdge>
       </data>
     </edge>
-<<<<<<< HEAD
     <edge id="e33" source="n7" target="n32">
       <data key="d10">
         <y:PolyLineEdge>
@@ -1289,10 +975,6 @@ do the quiz?<y:LabelModel>
       </data>
     </edge>
     <edge id="e35" source="n32" target="n33">
-=======
-    <edge id="e29" source="n10" target="n24">
-      <data key="d9"/>
->>>>>>> 3880f748e0c7bc044281ce941f2737e33829170a
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
