@@ -292,7 +292,7 @@ Enter your name, email and password.<y:LabelModel>
     <node id="n16">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="54.648094892675545" x="-814.9300602540893" y="440.55102040816325"/>
+          <y:Geometry height="30.0" width="54.648094892675545" x="-820.9650307227768" y="440.55102040816325"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" horizontalTextPosition="center" iconTextGap="4" modelName="custom" textColor="#000000" verticalTextPosition="bottom" visible="true" width="48.021484375" x="3.3133052588377723" y="5.6494140625">Do quiz.<y:LabelModel>
